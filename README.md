@@ -1,4 +1,4 @@
-#Hoş Geldin Dostum Benim Profilime Tüm Projelere Bakmadan Geçme 
+Hoş Geldin Dostum Benim Profilime Tüm Projelere Bakmadan Geçme 
 
 ![Github](https://github-readme-stats.vercel.app/api?username=ThealoqJs&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThealoqJs&theme=radical)](https://github.com/ThealoqJs/github-readme-stats)
