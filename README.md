@@ -1,4 +1,4 @@
-Merhaba Ben Thealoq
+Merhaba Ben Thealoq Hoş Geldin
 
 <img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
 
