@@ -8,7 +8,6 @@ Profilime Hoş Geldin Dostum Ben Thealoq
        <a href=https://www.twitch.tv/Leeİstan" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
  <a href="https://open.spotify.com/user/plcdgnxjp7rv57rnc7g5ai4jl?si=b83c10ff0f4b43d1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852122579015958568)](https://discord.com/users/852122579015958568)
- 
+
 
 </p>
