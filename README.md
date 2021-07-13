@@ -1,13 +1,14 @@
-Hoş Geldin Dostum Benim Profilime Tüm Projelere Bakmadan Geçme 
+Profilime Hoş Geldin Dostum Ben Thealoq
 
-![Github](https://github-readme-stats.vercel.app/api?username=ThealoqJs&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThealoqJs&theme=radical)](https://github.com/ThealoqJs/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
 
+<h3>🌟 Sosyal medya hesaplarım!</h3>
+<p align="left">
+     <a href="https://instagram.com/Thealoq" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href=https://www.twitch.tv/Leeİstan" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/plcdgnxjp7rv57rnc7g5ai4jl?si=b83c10ff0f4b43d1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852122579015958568)](https://discord.com/users/852122579015958568)
+ 
 
-
-
-[![İnstagram](https://camo.githubusercontent.com/7e5ea6500c36f6cca132b99adbf3f7283c00742c0b0cca9515f0099d292b0494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2532302d4443333137352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/Thealoq/)
-
-
-[![Discord](https://camo.githubusercontent.com/cfdb7a62449afe712e9eb92977cf8190acb14fb16e173e128eff89736e212a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642532302d3732383944412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.gg/959eJytw)<br>
-
+</p>
