@@ -9,7 +9,9 @@ Profilime Hoş Geldin Dostum Ben Thealoq
  <a href="https://open.spotify.com/user/plcdgnxjp7rv57rnc7g5ai4jl?si=b83c10ff0f4b43d1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white">
   
  Gelmeyi Unutmayin
- </a> <img alt="Discord" src="https://img.shields.io/discord/848118766809907240">
+ </a> 
+  Gelmeyi Unutmayin
+ <img alt="Discord" src="https://img.shields.io/discord/848118766809907240">
 
 </p>
 
