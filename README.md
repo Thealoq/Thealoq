@@ -1,5 +1,5 @@
 Merhaba Ben Thealoq Hoş Geldin
-
+```js
 class Thealoq {
     constructor(options) {
         this.name = "Caner S.",
@@ -13,7 +13,8 @@ class Thealoq {
     };
 }
 
-module.exports = Sydraxyz
+module.exports = Thealoq
+```
 
 <img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
 
