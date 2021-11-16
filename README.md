@@ -1,5 +1,20 @@
 Merhaba Ben Thealoq Hoş Geldin
 
+class Thealoq {
+    constructor(options) {
+        this.name = "Caner S.",
+        this.discord.tag = "Thea#0001",
+        this.job = "developer",
+        this.length = "188",
+        this.type = "human",
+        this.sex = "man",
+        this.weight = "52",
+        this.age = "21"
+    };
+}
+
+module.exports = Sydraxyz
+
 <img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
