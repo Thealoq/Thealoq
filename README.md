@@ -11,7 +11,6 @@ class Thealoq {
         this.age = "21"
     };
 }
-
 module.exports = Thealoq
 ```
 <img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
