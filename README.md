@@ -1,4 +1,3 @@
-Merhaba Ben Thealoq Hoş Geldin
 ```js
 class Thealoq {
     constructor(options) {
@@ -15,9 +14,7 @@ class Thealoq {
 
 module.exports = Thealoq
 ```
-
 <img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
-
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
      <a href="https://instagram.com/Thealoq" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
