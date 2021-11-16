@@ -1,7 +1,7 @@
 ```js
 class Thealoq {
     constructor(options) {
-        this.name = "Caner S.",
+        this.name = "Caner",
         this.discord.tag = "Thea#0001",
         this.job = "developer",
         this.length = "188",
