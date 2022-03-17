@@ -2,7 +2,7 @@
 class Thealoq {
     constructor(options) {
         this.name = "Caner",
-        this.discord.tag = "Thea#0001",
+        this.discord.tag = "Theaq#7000",
         this.job = "developer",
         this.length = "188",
         this.type = "human",
