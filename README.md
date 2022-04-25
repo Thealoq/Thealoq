@@ -8,7 +8,7 @@ class Thealoq {
         this.type = "human",
         this.sex = "man",
         this.weight = "52",
-        this.age = "21"
+        this.age = "22"
     };
 }
 module.exports = Thealoq
