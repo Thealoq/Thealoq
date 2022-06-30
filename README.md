@@ -1,18 +1,3 @@
-```js
-export default class Thealoq {
-    constructor(options) {
-        this.name = "Caner",
-        this.discord.tag = "Theaq#7000",
-        this.job = "developer",
-        this.length = "188",
-        this.type = "human",
-        this.sex = "man",
-        this.weight = "52",
-        this.age = "22"
-    };
-}
-
-```
 <img src="https://komarev.com/ghpvc/?username=thealoqjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Thealoqjs" />
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
